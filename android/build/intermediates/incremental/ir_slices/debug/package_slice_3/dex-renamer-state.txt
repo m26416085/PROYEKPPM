@@ -1,0 +1,4 @@
+#Mon Jun 04 18:59:17 ICT 2018
+base.0=E\:\\MobDev\\Proyek PPM\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
