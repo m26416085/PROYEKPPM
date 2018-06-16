@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="USE_CONFIGURATION_ON_DEMAND" value="false" />
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c3962d-195e-4ea0-9818-f3c90bddfded" name="Default" comment="" />
+    <list default="true" id="ce2ee269-8975-4759-964f-a3e2c355693a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/android/android.iml" afterPath="$PROJECT_DIR$/android/android.iml" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/mygdx/game/BuildConfig.java" afterPath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/mygdx/game/BuildConfig.java" />
+      <change beforePath="$PROJECT_DIR$/android/build/generated/source/r/debug/com/mygdx/game/R.java" afterPath="$PROJECT_DIR$/android/build/generated/source/r/debug/com/mygdx/game/R.java" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qQjo9UEwFRhnA9_sDKE0Bj9Vj7w=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/qQjo9UEwFRhnA9_sDKE0Bj9Vj7w=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/F3b_TKfSufAqjH0eedL6oyBUYu4=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/XH7Hylt7KlkVtBwql1eNBBH4u28=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/26.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/27.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/30.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/AndroidLauncher.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/BuildConfig.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/31/com/mygdx/game/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/16/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/android/build/outputs/apk/debug/android-debug.apk" afterPath="$PROJECT_DIR$/android/build/outputs/apk/debug/android-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/game/MyGdxGame.class" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/game/MyGdxGame.class" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/core/core.iml" afterPath="$PROJECT_DIR$/core/core.iml" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" afterPath="$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java" />
+      <change beforePath="$PROJECT_DIR$/desktop/desktop.iml" afterPath="$PROJECT_DIR$/desktop/desktop.iml" />
+      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +105,8 @@
       <file leaf-file-name="AndroidLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/src/com/mygdx/game/AndroidLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -36,14 +115,17 @@
       <file leaf-file-name="MyGdxGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -61,14 +143,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Proyek PPM" />
+              <option name="name" value="ProyekPPM" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Proyek PPM" />
+                <option name="name" value="ProyekPPM" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -94,7 +176,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Proyek PPM'." />
+                <option name="description" value="Displays the sub-projects of root project 'ProyekPPM'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -194,7 +276,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Proyek PPM'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'ProyekPPM'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -467,7 +549,7 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'Proyek PPM'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'ProyekPPM'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
@@ -477,7 +559,7 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'Proyek PPM'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'ProyekPPM'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -598,7 +680,7 @@
                 <option name="name" value="eclipseClasspath" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Proyek PPM'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'ProyekPPM'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -616,7 +698,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Proyek PPM' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'ProyekPPM' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -630,7 +712,7 @@
                 <option name="name" value="bundleDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Proyek PPM'." />
+                <option name="description" value="Displays all dependencies declared in root project 'ProyekPPM'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -723,7 +805,7 @@
                 <option name="name" value="preparePUBLISHED_NATIVE_LIBSDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Proyek PPM'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'ProyekPPM'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -935,7 +1017,7 @@
                 <option name="name" value="packageDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Proyek PPM'." />
+                <option name="description" value="Displays the properties of root project 'ProyekPPM'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -2718,7 +2800,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="Proyek PPM" />
+              <option name="name" value="ProyekPPM" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-bin/4jp4stjndanmxuerzfseyb6wo/gradle-4.6/lib/ant-1.9.9.jar" />
@@ -2821,11 +2903,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -2841,21 +2924,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
-              <item name="Proyek PPM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ProyekPPM" type="1abcf292:AndroidViewProjectNode" />
               <item name="core" type="e9137016:NonAndroidModuleNode" />
             </path>
             <path>
-              <item name="Proyek PPM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ProyekPPM" type="1abcf292:AndroidViewProjectNode" />
               <item name="core" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
             </path>
             <path>
-              <item name="Proyek PPM" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ProyekPPM" type="1abcf292:AndroidViewProjectNode" />
               <item name="core" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
@@ -2865,15 +2950,14 @@
         </subPane>
       </pane>
       <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="android.sdk.path" value="D:/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="988678525331573148" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3031,19 +3115,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d7c3962d-195e-4ea0-9818-f3c90bddfded" name="Default" comment="" />
-      <created>1528113134111</created>
+      <changelist id="ce2ee269-8975-4759-964f-a3e2c355693a" name="Default" comment="" />
+      <created>1528877727770</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528113134111</updated>
+      <updated>1528877727770</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3051,14 +3135,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05142232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3084,40 +3168,116 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/android/src/com/mygdx/game/AndroidLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="1360">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/src/com/mygdx/game/AndroidLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="49" column="63" lean-forward="true" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/com/mygdx/game/AndroidLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/badlogic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/assets/mazetutorial.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/res/drawable-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar!/com/badlogic/gdx/utils/XmlReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar!/com/badlogic/gdx/maps/tiled/TmxMapLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/com/mygdx/game/AndroidLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/MyGdxGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
           <folding />
         </state>
       </provider>

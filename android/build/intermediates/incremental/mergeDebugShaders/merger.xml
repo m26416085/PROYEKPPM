@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\MobDev\Proyek PPM\android\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\MobDev\Proyek PPM\android\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\DATA KULIAH\Sem 4\MobDev\ProyekPPM\android\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\DATA KULIAH\Sem 4\MobDev\ProyekPPM\android\src\debug\shaders"/></dataSet></merger>

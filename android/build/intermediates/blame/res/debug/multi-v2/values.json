@@ -1,17 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\MobDev\\Proyek PPM\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\DATA KULIAH\\Sem 4\\MobDev\\ProyekPPM\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\MobDev\\Proyek PPM\\android\\res\\values\\styles.xml",
+                    "source": "D:\\DATA KULIAH\\Sem 4\\MobDev\\ProyekPPM\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "46",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                },
+                {
+                    "source": "D:\\DATA KULIAH\\Sem 4\\MobDev\\ProyekPPM\\android\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "17",
+                        "startOffsets": "19",
                         "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "475"
+                        "endOffsets": "484"
                     },
                     "to": {
                         "startLines": "3",
@@ -20,23 +37,6 @@
                         "endLines": "10",
                         "endColumns": "12",
                         "endOffsets": "560"
-                    }
-                },
-                {
-                    "source": "E:\\MobDev\\Proyek PPM\\android\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "46",
-                        "endOffsets": "98"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
                     }
                 }
             ]
